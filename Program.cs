@@ -13,6 +13,7 @@ namespace mathOperations_dotnet
             Console.WriteLine($"The difference of {num1} and {num2} is {num1 - num2}");
             Console.WriteLine($"The product of {num1} and {num2} is {num1 * num2}");
             Console.WriteLine($"The quotient of {num1} and {num2} is {num1 / num2}");
+            Console.WriteLine($"The remainder of {num1} and {num2} is {num1 % num2}");
         }
     } 
 }
