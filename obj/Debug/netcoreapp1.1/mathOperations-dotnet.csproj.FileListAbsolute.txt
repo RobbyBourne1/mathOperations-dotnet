@@ -1,0 +1,8 @@
+/Users/robbybourne/Documents/mathOperations-dotnet/bin/Debug/netcoreapp1.1/mathOperations-dotnet.deps.json
+/Users/robbybourne/Documents/mathOperations-dotnet/bin/Debug/netcoreapp1.1/mathOperations-dotnet.runtimeconfig.json
+/Users/robbybourne/Documents/mathOperations-dotnet/bin/Debug/netcoreapp1.1/mathOperations-dotnet.runtimeconfig.dev.json
+/Users/robbybourne/Documents/mathOperations-dotnet/bin/Debug/netcoreapp1.1/mathOperations-dotnet.dll
+/Users/robbybourne/Documents/mathOperations-dotnet/bin/Debug/netcoreapp1.1/mathOperations-dotnet.pdb
+/Users/robbybourne/Documents/mathOperations-dotnet/obj/Debug/netcoreapp1.1/mathOperations-dotnet.AssemblyInfo.cs
+/Users/robbybourne/Documents/mathOperations-dotnet/obj/Debug/netcoreapp1.1/mathOperations-dotnet.dll
+/Users/robbybourne/Documents/mathOperations-dotnet/obj/Debug/netcoreapp1.1/mathOperations-dotnet.pdb
